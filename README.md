@@ -1,1 +1,1 @@
-# banco-inform-tica
+# banco-informatica
